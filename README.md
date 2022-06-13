@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sherif</h1>
 <h3 align="center">A Front-End Developer</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=A+Front-End+Developer;A+Software+Engineer;A+Computer+Engineer;A+Freelancer)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsherif20&label=views&color=151bc1&style=flat" alt="ahmedsherif20" /> </p>
 
 - 🌱 I’m currently learning **Backend Development - NodeJs**
